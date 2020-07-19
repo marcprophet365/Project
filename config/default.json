@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://marcp:marcp@cluster0-ihen1.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "e0d3a52a31d4a73a1482",
+  "githubSecret": "8bc44194b89a488490a610ed09c247b5844f89df"
+}
